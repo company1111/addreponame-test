@@ -6,7 +6,7 @@ name: addreponame
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   repository_dispatch:
-   types: repositry_change
+  # types: repositry_change
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
